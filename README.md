@@ -1,6 +1,14 @@
 ## Getting Started
 
-First, run the development server:
+First, Install node_modules using 
+
+```bash 
+npm install
+# or
+npm i
+```
+
+Second, run the development server:
 
 ```bash
 npm run dev
